@@ -20,7 +20,7 @@ Utilized publicly available gait datasets like CASIA-B for benchmarking.
 
 Includes synthesized or recorded gait videos for custom analysis (if applicable).
 
-🛠️ Tech Stack
+****🛠️ Tech Stack****
 Python, OpenCV, NumPy, Pandas
 
 OpenPose / MediaPipe for pose detection
@@ -29,7 +29,7 @@ Matplotlib / Seaborn for data visualization
 
 Scikit-learn for statistical analysis and classification
 
-📈 Potential Use Cases
+****📈 Potential Use Cases****
 Remote health monitoring
 
 Post-stroke recovery support
@@ -38,7 +38,7 @@ Physical therapy evaluation
 
 Fall-risk assessment in elderly patients
 
-📌 Future Enhancements
+****📌 Future Enhancements****
 Integrate with real-time mobile camera input
 
 Deploy as a web application for remote use
