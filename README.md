@@ -1,4 +1,4 @@
-## **🧠 AI-Based Gait Analysis for Stroke Survivors and Physically Disabled Individuals**
+# **🧠 AI-Based Gait Analysis for Stroke Survivors and Physically Disabled Individuals**
 This project leverages computer vision techniques to analyze and assess human gait patterns for stroke survivors and individuals with physical disabilities. Using pose estimation frameworks like OpenPose and MediaPipe, the system extracts key joint coordinates from video footage to detect abnormalities in walking patterns.
 
 ## **🏥 Objective**
